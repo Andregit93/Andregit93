@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Andregit93
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on google
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning HTML, CSS, Js, PHP
+- 💞️ I’m looking to collaborate Web
 - 📫 How to reach me andresevtian501@gmail.com
 
 <!---
