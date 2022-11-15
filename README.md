@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Andregit93
+- 👋 Hi, I’m @AndreSevtian
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS, Js, PHP
 - 💞️ I’m looking to collaborate Web
